@@ -1,1 +1,1 @@
-# colorsproject
+This is a really basic project. Initially I was just playing around with elements and practicing positioning. It has turned into a small library of colors that I like and their HEX numbers. I intend to use this as a plce to practice and stash things that I like and want to remember for future projects. 
